@@ -130,7 +130,3 @@ fas_df =
   relocate(litter_number, dose, day_of_tx)
 ```
 
-
-
-
-
